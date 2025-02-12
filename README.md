@@ -9,6 +9,9 @@ I appeared for **GATE 2024 in Computer Science and Information Technology (CS)**
 Unlike many who go for **M.Tech after GATE**, I’m more inclined towards **real-world software development & data analytics**. My focus areas include:  
 - **Software Development** (Python, C++, Databases)  
 - **Data Analytics & Business Intelligence** (SQL, Power BI)  
-- **Problem-Solving & Optimization**  
+- **Problem-Solving & Optimization**
+
+  
+![GATE Scorecard](./CS24S65012727_ScoreCard.pdf)  
 
 Excited to apply my skills and take on new challenges! 🚀
