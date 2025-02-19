@@ -1,4 +1,4 @@
-# MY-GATE-CSIT-2025-SCORECARD
+# MY-GATE-CSIT-2024-SCORECARD
 ## My GATE 2024 Results  
 I appeared for **GATE 2024 in Computer Science and Information Technology (CS)** and secured:  
 - **AIR:** 3596  
